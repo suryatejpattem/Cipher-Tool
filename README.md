@@ -19,23 +19,14 @@ Provides options to process text or files.
 Interactive command-line interface to choose between different ciphers and modes.
 How to Use:
 Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/cipher-tool.git
+`git clone https://github.com/yourusername/cipher-tool.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd cipher-tool
+`cd cipher-tool
 Run the script:
 
-bash
-Copy code
-python cipher_tool.py
+`python cipher_tool.py
 Follow the on-screen instructions to choose a cipher and enter the text to encrypt or decrypt.
 
 Requirements:
 Python 3.x
-License:
-This project is licensed under the MIT License - see the LICENSE file for details.
